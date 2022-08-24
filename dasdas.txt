@@ -6,3 +6,5 @@ cout<<"Hola,Mundo"<<endl;
 
 cin>>n;
 }
+
+//autor : alejandro fonseca cuza
